@@ -1,2 +1,2 @@
-Poppins-Medium.ttf (Make sure this file is present in your working directory - U can use any other font)
+Poppins-Medium.ttf (Make sure this file is present in your working directory - You can use any other font)
 The trained model should be saved in your current working directory to be able to use it in the app
